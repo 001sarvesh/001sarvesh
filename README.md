@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Mongodb(Full Stack developement) .**
+- 🌱 I’m currently learning **Full Stack developement.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
