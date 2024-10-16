@@ -51,5 +51,5 @@
 ## Connect with me:
 
 <p align="left">
-    <a href="mailto:shuklasarvesh495@gmail.com"><img src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png"/></a>
+<a href="https://www.linkedin.com/in/sarvesh-s-2013a1237/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
