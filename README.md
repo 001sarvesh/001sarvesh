@@ -1,7 +1,7 @@
-<!-- 🧑‍💻 Banner -->
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/001sarvesh/001sarvesh/main/assets/banner.png" alt="Banner"/></a>
+<!-- ✅ Working Banner (hosted via GitHub) -->
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Banner"/></a>
 
-<h1 align="center">Hi There, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"> I'm Sarvesh Shukla</h1>
+<h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarvesh Shukla</h1>
 <h3 align="center">I love building scalable systems, automating workflows, and solving real-world problems with data.</h3>
 
 ---
@@ -22,15 +22,15 @@
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/python.png"/> 
     <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     <img src="https://img.icons8.com/color/48/000000/terraform.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-circleci-is-a-continuous-integration-and-delivery-platform-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/git.png"/>
-    <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-airflow-devops-soft-fill-soft-fill-juicy-fish.png"/>
 </p>
 
