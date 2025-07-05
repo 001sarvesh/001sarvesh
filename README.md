@@ -1,55 +1,64 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarvesh Shukla</h1>
-<h3 align="center">I'm exploring Full Stack development currently.</h3>
+<h3 align="center">I love building scalable systems, automating workflows, and solving real-world problems with data.</h3>
+
+---
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJs, NodeJs & MongoDB**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me **shuklasarvesh495@gmail.com**
-- ⚡ Fun fact **I love reading and solving problems.**
+- 🔭 Currently at **SatSure**, building **Airflow pipelines**, working with **raster data**, and designing **geospatial workflows**.
+- 🛠️ Previously at **Elucidata**, developed scalable **REST APIs**, improved **CI/CD with CircleCI**, and used **AWS Lambda, EC2, S3**, and **Terraform**.
+- 💡 Experienced in **cloud infrastructure**, **backend systems**, and **workflow automation**.
+- 💻 Built ML models for **cyberbullying detection** and **agri-tech applications**.
+- 🌱 Always exploring modern tech stacks – especially in **data-driven systems** and **full-stack development**.
+- 📫 Reach me at **shuklasarvesh125@gmail.com**
 
-## 🚀 Languages and Tools:
+---
+
+## 🚀 Tech Stack & Tools
 
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/jupyter.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+    <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    <img src="https://img.icons8.com/color/48/000000/terraform.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-circleci-is-a-continuous-integration-and-delivery-platform-logo-shadow-tal-revivo.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+    <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/000000/external-airflow-devops-flat-icons-inmotus-design.png"/>
 </p>
 
+---
 
-<br/>
+## 📈 GitHub Stats
 
 <p align="center">
     <a href="https://github.com/001sarvesh/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarvesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=001sarvesh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 GitHub Streak" alt="Sarvesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=001sarvesh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+<p align="center">
+    <a href="https://github.com/001sarvesh/github-readme-stats">
+        <img alt="Sarvesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=001sarvesh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/001sarvesh/github-readme-stats">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=001sarvesh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</p>
 
-<br/>
-<a href="https://github.com/001sarvesh/github-readme-stats">
-    <img alt="Sarvesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=001sarvesh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/001sarvesh/github-readme-stats">
-    <img alt="Sarvesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=001sarvesh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<sub><b>Note:</b> Top languages only reflect public repositories and not actual skill level.</sub>
 
-<br/>
-<br/>
+---
 
-## Connect with me:
+## 🌐 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sarvesh-s-2013a1237/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/sarvesh-s-2013a1237/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="mailto:shuklasarvesh125@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
