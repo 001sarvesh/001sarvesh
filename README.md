@@ -12,7 +12,7 @@
 - 💡 Experienced in **cloud infrastructure**, **backend systems**, and **workflow automation**.
 - 💻 Built ML models for **cyberbullying detection** and **agri-tech applications**.
 - 🌱 Always exploring modern tech stacks – especially in **data-driven systems** and **full-stack development**.
-- 📫 Reach me at **shuklasarvesh125@gmail.com**
+- 📫 Reach me at **shuklasarvesh125@gmail.com** **shuklasarvesh495@gmail.com**
 
 ---
 
@@ -33,24 +33,6 @@
     <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/000000/external-airflow-devops-flat-icons-inmotus-design.png"/>
 </p>
 
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=001sarvesh&theme=react&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=001sarvesh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001sarvesh&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
-<sub><b>Note:</b> Stats include private commits only if you’re logged into GitHub and the repo is configured to allow API access to those stats.</sub>
-
----
 
 ## 🌐 Let's Connect
 
