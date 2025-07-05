@@ -34,25 +34,21 @@
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/001sarvesh/github-readme-streak-stats">
-        <img title="🔥 GitHub Streak" alt="Sarvesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=001sarvesh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.demolab.com?user=001sarvesh&theme=react&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-    <a href="https://github.com/001sarvesh/github-readme-stats">
-        <img alt="Sarvesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=001sarvesh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/001sarvesh/github-readme-stats">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=001sarvesh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=001sarvesh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
 </p>
 
-<sub><b>Note:</b> Top languages only reflect public repositories and not actual skill level.</sub>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=001sarvesh&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+</p>
+
+<sub><b>Note:</b> Stats include private commits only if you’re logged into GitHub and the repo is configured to allow API access to those stats.</sub>
 
 ---
 
