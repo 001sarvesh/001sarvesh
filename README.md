@@ -20,18 +20,18 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
-    <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-circleci-is-a-continuous-integration-and-delivery-platform-logo-shadow-tal-revivo.png" alt="CircleCI"/>
-    <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git"/>
-    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/>
-    <img src="https://img.icons8.com/ios-filled/50/228BE6/apache-airflow.png" alt="Apache Airflow"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-circleci-is-a-continuous-integration-and-delivery-platform-logo-shadow-tal-revivo.png" alt="CircleCI"/>
+  <img src="https://img.icons8.com/fluency/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/>
+  <img src="https://img.icons8.com/external-outline-design-circle/48/null/external-apache-airflow-devops-outline-design-circle.png" alt="Airflow"/>
 </p>
 
 
