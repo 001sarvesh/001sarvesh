@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/212260123-5c3e85af-8af0-4268-bfc8-16c4d6ef9b8f.png" alt="Banner"/></a>
 
-<h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarvesh Shukla</h1>
+<h1 align="center">Hi There, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sarvesh Shukla</h1>
 <h3 align="center">I love building scalable systems, automating workflows, and solving real-world problems with data.</h3>
 
 ---
@@ -12,7 +12,7 @@
 - 💡 Experienced in **cloud infrastructure**, **backend systems**, and **workflow automation**.
 - 💻 Built ML models for **cyberbullying detection** and **agri-tech applications**.
 - 🌱 Always exploring modern tech stacks – especially in **data-driven systems** and **full-stack development**.
-- 📫 Reach me at **shuklasarvesh125@gmail.com** **shuklasarvesh495@gmail.com**
+- 📫 Reach me at **shuklasarvesh495@gmail.com**
 
 ---
 
@@ -30,13 +30,14 @@
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-circleci-is-a-continuous-integration-and-delivery-platform-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-    <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/000000/external-airflow-devops-flat-icons-inmotus-design.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Apache_Airflow_logo.svg/1200px-Apache_Airflow_logo.svg.png" width="48" height="48"/>
 </p>
 
+---
 
 ## 🌐 Let's Connect
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sarvesh-s-2013a1237/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="mailto:shuklasarvesh125@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+    <a href="mailto:shuklasarvesh495@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
