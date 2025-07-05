@@ -1,6 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/74038190/212260123-5c3e85af-8af0-4268-bfc8-16c4d6ef9b8f.png" alt="Banner"/></a>
+<!-- 🧑‍💻 Banner -->
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/001sarvesh/001sarvesh/main/assets/banner.png" alt="Banner"/></a>
 
-<h1 align="center">Hi There, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sarvesh Shukla</h1>
+<h1 align="center">Hi There, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px"> I'm Sarvesh Shukla</h1>
 <h3 align="center">I love building scalable systems, automating workflows, and solving real-world problems with data.</h3>
 
 ---
@@ -30,7 +31,7 @@
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-circleci-is-a-continuous-integration-and-delivery-platform-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Apache_Airflow_logo.svg/1200px-Apache_Airflow_logo.svg.png" width="48" height="48"/>
+    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-airflow-devops-soft-fill-soft-fill-juicy-fish.png"/>
 </p>
 
 ---
