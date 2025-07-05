@@ -28,12 +28,11 @@
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     <img src="https://img.icons8.com/color/48/000000/terraform.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-circleci-is-a-continuous-integration-and-delivery-platform-logo-shadow-tal-revivo.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="48" height="48"/>
     <img src="https://img.icons8.com/fluency/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-    <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-airflow-devops-soft-fill-soft-fill-juicy-fish.png"/>
+    <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_logo.png" width="48" height="48"/>
 </p>
-
 ---
 
 ## 🌐 Let's Connect
