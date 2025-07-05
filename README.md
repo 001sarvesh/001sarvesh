@@ -28,11 +28,12 @@
     <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
     <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     <img src="https://img.icons8.com/color/48/000000/terraform.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="48" height="48"/>
     <img src="https://img.icons8.com/fluency/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-    <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_logo.png" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/harshitsinghai77/harshitsinghai77/main/icons8-apache-airflow-48.png" width="48" height="48"/>
 </p>
+
 ---
 
 ## 🌐 Let's Connect
