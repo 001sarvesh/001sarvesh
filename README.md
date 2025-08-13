@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently at **SatSure**, building **Airflow pipelines**, working with **raster data**, and designing **geospatial workflows**.
-- 🛠️ Previously at **Elucidata**, developed scalable **REST APIs**, improved **CI/CD with CircleCI**, and used **AWS Lambda, EC2, S3**, and **Terraform**.
+<!--- 🔭 Currently at **SatSure**, building **Airflow pipelines**, working with **raster data**, and designing **geospatial workflows**.-->
+- 🛠️ Currently at **Elucidata**, developed scalable **REST APIs**, improved **CI/CD with CircleCI**, and used **AWS Lambda, EC2, S3**, and **Terraform**.
 - 💡 Experienced in **cloud infrastructure**, **backend systems**, and **workflow automation**.
 - 💻 Built ML models for **cyberbullying detection** and **agri-tech applications**.
 - 🌱 Always exploring modern tech stacks – especially in **data-driven systems** and **full-stack development**.
